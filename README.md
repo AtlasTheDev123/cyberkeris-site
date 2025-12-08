@@ -321,5 +321,5 @@ This project is proprietary software owned by CyberKeris Technologies.
 ---
 
 <p align="center">
-  <strong>⚡ CyberKeris Technologies — Securing the Digital Future ⚡</strong>
+  <strong>⚡ CyberKeris Digital — Securing the Digital Future ⚡</strong>
 </p>
